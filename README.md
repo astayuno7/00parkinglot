@@ -1,8 +1,7 @@
 # Parking Lot
+A parking allocation system that can pre-assign a slot for every vehicle coming into the complex
 
 <img src="https://i.imgur.com/dEqS88m.png" width="100%"/>
-
-A parking allocation system that can pre-assign a slot for every vehicle coming into the complex
 
 ## Installation (Server)
 --------------------
