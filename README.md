@@ -1,6 +1,6 @@
 # Parking Lot
 
-<img src="https://imgur.com/a/DLf3duE" width="100%"/>
+<img src="https://i.imgur.com/dEqS88m.png" width="100%"/>
 
 A parking allocation system that can pre-assign a slot for every vehicle coming into the complex
 
